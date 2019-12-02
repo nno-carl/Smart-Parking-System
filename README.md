@@ -1,9 +1,9 @@
 # Smart-Parking-System
 It is a project for course Ubiquitous Sensing for Smart Cities.
 We complete a smart parking system with 3 features:
-Automatic license plate recognition
-Monitor parking numbers in real time
-Predict available parking time when parking lot is full
+Automatic license plate recognition.
+Monitor parking numbers in real time.
+Predict available parking time when parking lot is full.
 
 tools as follow:
 Python
@@ -15,12 +15,12 @@ Scikit-learn
 PyQt5
 MongoDB
 
-Uploaded files do not contain Mask R-CNN model
-Please go to https://github.com/matterport/Mask_RCNN/releases to download "mask_rcnn_coco.h5"
+Uploaded files do not contain Mask R-CNN model.
+Please go to https://github.com/matterport/Mask_RCNN/releases to download "mask_rcnn_coco.h5".
 
 Before opening it, please make sure the above tools have been installed successfully.
-Please install Mask R-CNN before open it. Download Mask R-CNN: https://github.com/matterport/Mask_RCNN
-Do not forget to install MongoDB
+Please install Mask R-CNN before open it. Download Mask R-CNN: https://github.com/matterport/Mask_RCNN./r
+Do not forget to install MongoDB.
 
 Run 'mainEntry.py' to open the project. It will automatically open video and detect cars.
 The video and the number of parking will be shown on user interface.
