@@ -19,7 +19,7 @@ Uploaded files do not contain Mask R-CNN model.
 Please go to https://github.com/matterport/Mask_RCNN/releases to download "mask_rcnn_coco.h5".
 
 Before opening it, please make sure the above tools have been installed successfully.
-Please install Mask R-CNN before open it. Download Mask R-CNN: https://github.com/matterport/Mask_RCNN./r
+Please install Mask R-CNN before open it. Download Mask R-CNN: https://github.com/matterport/Mask_RCNN
 Do not forget to install MongoDB.
 
 Run 'mainEntry.py' to open the project. It will automatically open video and detect cars.
