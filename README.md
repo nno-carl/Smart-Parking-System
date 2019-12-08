@@ -34,3 +34,4 @@ Reference:
 https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400  
 https://github.com/matterport/Mask_RCNN  
 https://github.com/MicrocontrollersAndMore/OpenCV_3_License_Plate_Recognition_Python  
+https://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/
